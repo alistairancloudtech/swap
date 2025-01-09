@@ -1,0 +1,38 @@
+{
+  "name": "Redbelly Testnet Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+  "keywords": ["redbelly", "testnet", "tokens"],
+  "timestamp": "2024-01-01T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "FK Coin",
+      "address": "0x020aDF87A8d9f6665f4A437aD1061AF94f7AE12c",
+      "symbol": "FKC",
+      "decimals": 18,
+      "chainId": 153,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2ba592f78db6436527729929aaf6c908497cb200.png"
+    },
+    {
+      "name": "Wrapped RBNT",
+      "address": "0xf823329110329F21b1Da6F8B2FaD7D8322EAA4cE",
+      "symbol": "WRBNT ",
+      "decimals": 18,
+      "chainId": 153,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    },
+    {
+      "name": "A Test Coin",
+      "address": "0x381297B4dF41ECEC87432F9C6a9d8d51361F94C4",
+      "symbol": "ATC",
+      "decimals": 18,
+      "chainId": 153,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    }
+    
+  ]
+}
